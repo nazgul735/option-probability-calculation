@@ -1,0 +1,8 @@
+package Project;
+
+public class probability
+{
+	
+}
+//kalkulere sannsynlighet for suksess av alle elemter i liste
+//rangere dem etter hva som er �nsket for bruker 
